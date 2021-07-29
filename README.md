@@ -1,5 +1,5 @@
 # Contextual-Chatbot-in-Pytorch
-This is a chatbot designed for a local coffee shop which takes questions(Although a limited ones) and returns answer to those questions.
+This is a chatbot designed for a local coffee shop which takes questions(Although limited ones) and returns answer to those questions.
 ## Training Model
 - I followed a very simple yet state of the art modeling technique for Training it using 2 layered Feed Forward neural network.
 - To train my model I used the following:-
