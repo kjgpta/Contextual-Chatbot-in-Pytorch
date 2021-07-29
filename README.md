@@ -11,6 +11,6 @@ This is a chatbot designed for a local coffee shop that takes questions and retu
 1. Firstly, I created a NeuralNet model from [Torch.nn Library](https://pytorch.org/docs/stable/nn.html).
 2. Then, I created a intents.json JSON file which contains various tags like greetings,thanks,etc along with various patterns of asking questions regarding those type of tags and also response which computer should give in those cases.
 3. Then, I created nltk_utils.py python file which contains methods like tokenize, stem, bag_of_words.
-4. I made a train.py python file to train NeuralNet model for chatbot going through 1000 iterations.
+4. I made a train.py python file to train NeuralNet model for chatbot going through 1000 epochs.
 5. Finally, a chat.py python file to interact with the user.
 
